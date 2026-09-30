@@ -6,7 +6,7 @@ Customers can browse products by brand/category, search, manage a cart and wishl
 passwordless OTP flow, check out through a demo SSLCommerz-style payment page, and view their order
 history.
 
-> **Demo video:** _add your YouTube/Drive link here before submitting_ → `https://youtu.be/2ZBkEn0rkEk?si=sV0kLgzU3-NWa4Wv`
+> **Demo video:** → `https://youtu.be/2ZBkEn0rkEk?si=sV0kLgzU3-NWa4Wv`
 
 ---
 
