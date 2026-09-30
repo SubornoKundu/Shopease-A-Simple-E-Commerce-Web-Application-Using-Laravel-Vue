@@ -1,7 +1,6 @@
 # ShopEase
 
-A full-stack e-commerce web application built with **Laravel 13**, **Vue 3**, and **Inertia.js**, for the
-DIU Batch-12 / Module-22 assignment (*"Build a Simple E-Commerce Web Application"*).
+A full-stack e-commerce web application built with **Laravel 13**, **Vue 3**, and **Inertia.js**
 
 Customers can browse products by brand/category, search, manage a cart and wishlist, sign in with a
 passwordless OTP flow, check out through a demo SSLCommerz-style payment page, and view their order
@@ -174,23 +173,7 @@ public/images/              seeded brand/category/product/slider artwork
 
 ---
 
-## Recording the presentation video (3–3.5 min)
 
-A suggested run-through that touches every required module without rushing:
-
-1. **(0:00–0:20) Home page** — scroll past the hero slider, brand strip, and category grid.
-2. **(0:20–0:45) Browse & search** — open *Shop*, filter by a category, then by a brand, then try the
-   search box.
-3. **(0:45–1:15) Product details → Cart** — open a product, bump the quantity, add it to the cart; add a
-   second product from the listing grid directly.
-4. **(1:15–1:45) Wishlist** — heart a product from a listing card, open the Wishlist page, move one item
-   into the cart from there.
-5. **(1:45–2:30) Login** — log out if already signed in, then show the OTP flow end-to-end: enter name +
-   email, show the on-screen demo code, verify it.
-6. **(2:30–3:10) Checkout & payment** — go to Cart → Checkout, fill in shipping details, land on the demo
-   SSLCommerz page, pick a method (e.g. bKash), pay.
-7. **(3:10–3:30) Order history & profile** — show the new order on the confirmation page, open *My
-   Orders* to show it in the list, then quickly show *Profile*.
 
 ## Submission checklist
 
